@@ -1,0 +1,18 @@
+.container-all-recipes {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  padding: 5%;
+}
+
+.container-cardsF {
+  padding-bottom: 2%;
+}
+
+.flex-card-adjust {
+  border: 2px solid red;
+}
+
+.text-central-search {
+  text-align: center;
+}

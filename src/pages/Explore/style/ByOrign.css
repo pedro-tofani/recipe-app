@@ -1,0 +1,10 @@
+.by-orign-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding-top: 2vh;
+}
+
+.by-orign-container select {
+  width: 85%;
+}

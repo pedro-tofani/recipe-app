@@ -1,0 +1,28 @@
+.phantom-footer {
+  display: block;
+  height: 0.1vh;
+  width: 100%;
+}
+
+.footer-list-container > ul > a {
+  color: black;
+  list-style: none;
+}
+
+.footer-container {
+  background-color: grey;
+  bottom: 0;
+  left: 0;
+  padding: 0;
+  position: fixed;
+  text-align: center;
+  width: 100vw;
+}
+
+.flex-footer-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 0.5vh;
+  padding: 0;
+}

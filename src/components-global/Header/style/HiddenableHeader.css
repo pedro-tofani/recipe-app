@@ -1,0 +1,18 @@
+.search-bar-container {
+  border-bottom: 1px solid grey;
+  padding-bottom: 0.5em;
+}
+
+.search-bar-container .input-search-container {
+  margin: auto;
+  width: 95%;
+}
+
+.search-bar-container .input-search {
+  width: 100%;
+}
+
+.search-bar-container .form-header-flex {
+  display: flex;
+  justify-content: space-around;
+}

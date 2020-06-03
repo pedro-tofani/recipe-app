@@ -1,0 +1,39 @@
+.comp_subcard > .title , .comp_subcard > .subtitle {
+  margin-left: 5%;
+}
+
+.comp_subcard .title , .comp_subcard2 .title {
+  background-color: transparent;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.comp_subcard2 {
+  height: 100%;
+}
+
+.comp_subcard2 > .header {
+  display: flex;
+}
+
+.comp_subcard2 .subtitle , .comp_subcard .subtitle {
+  color: gray;
+}
+
+.comp_subcard2 .date , .comp_subcard2 .title {
+  margin: 1%;
+}
+
+.comp_subcard2 .tags {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2%;
+}
+
+.comp_subcard2 .tags > p {
+  background-color: gray;
+  border-radius: 2px;
+  margin: 1%;
+  padding: 1%;
+}

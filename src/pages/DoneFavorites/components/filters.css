@@ -1,0 +1,14 @@
+.comp_filters {
+  display: flex;
+  height: 5vh;
+  justify-content: space-between;
+  margin: 2%;
+  width: 95%;
+}
+
+.comp_filters > button {
+  background-color: gray;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 0 7%;
+}

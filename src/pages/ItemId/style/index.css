@@ -1,0 +1,71 @@
+.page_itemid > img {
+  height: 30vh;
+  object-fit: cover;
+  width: 100%;
+}
+
+.page_itemid > .main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 2%;
+  margin-bottom: 25%;
+}
+
+.page_itemid .header {
+  display: flex;
+  justify-content: space-between;
+  margin: 1% 0;
+}
+
+.page_itemid .header > .title {
+  font-size: 2em;
+  margin: 0;
+}
+
+.page_itemid .header > div {
+  display: flex;
+  margin: 0 2%;
+}
+
+.page_itemid .type {
+  color: rgb(197, 190, 176);
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.page_itemid .subtitle {
+  font-size: 1.5em;
+}
+
+.page_itemid .ingredients > .box , .page_itemid .intructions > .box {
+  background-color: rgb(197, 190, 176);
+  border-radius: 5px;
+  padding: 1%;
+  word-wrap: break-word;
+}
+
+.page_itemid .video > embed {
+  width: 100%;
+}
+
+.page_itemid .init {
+  background-color: chartreuse;
+  border-style: none;
+  bottom: 0;
+  cursor: pointer;
+  font-size: 1.5em;
+  left: 0;
+  padding: 5%;
+  position: fixed;
+  width: 100%;
+}
+
+.page_itemid .checkbox {
+  display: flex;
+  margin: 2% 0;
+}
+
+.page_itemid .checkbox > p {
+  margin: 0;
+}

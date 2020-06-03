@@ -1,0 +1,20 @@
+.selected-border-red {
+  border: 3px solid red;
+}
+
+.not-selected-border {
+  border: 1px solid grey;
+}
+
+.btn-filter-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.btn-filter-container button {
+  border-radius: 1em;
+  font-size: 1em;
+  margin: 1em 0.25em 0.1em 0.5em;
+  width: 25%;
+}

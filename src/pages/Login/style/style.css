@@ -1,0 +1,30 @@
+div > .containerLogin {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+  margin-top: 35%;
+  text-align: center;
+  width: 100%;
+}
+
+.containerForm {
+  align-content: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 5%;
+  width: 75%;
+}
+
+.containerForm > input {
+  border: 1px solid black;
+  height: 7vh;
+  margin-top: 5%;
+}
+
+.containerForm > button {
+  height: 8vh;
+  margin-top: 5%;
+}

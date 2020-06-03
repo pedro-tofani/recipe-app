@@ -1,0 +1,11 @@
+.container-renderCards {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.container-cards {
+  margin: 0 3% 3% 0;
+  width: 45%;
+}

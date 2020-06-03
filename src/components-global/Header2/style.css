@@ -1,0 +1,16 @@
+.comp_header2 {
+  background-color: grey;
+  display: flex;
+}
+
+.comp_header2 .material-icons {
+  background-color: transparent;
+  color: white;
+  margin: 2%;
+  margin-right: 0;
+}
+
+.comp_header2 .title {
+  font-size: 1.5em;
+  margin: auto;
+}

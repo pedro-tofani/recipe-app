@@ -1,0 +1,36 @@
+.comp_card2 {
+  border: grey 1px solid;
+  border-radius: 10px;
+  box-shadow: 2px 2px grey;
+  display: flex;
+  height: 170px;
+  margin: 2%;
+  width: 95%;
+}
+
+.comp_card2 > button > img {
+  border-radius: 10px;
+  height: 100%;
+}
+
+.comp_card2 > .container {
+  height: 100%;
+  width: 100%;
+}
+
+.comp_card2 > .container > .subtitulo {
+  color: grey;
+}
+
+.comp_card2 .icons {
+  display: flex;
+}
+
+.comp_card2 > button {
+  background-color: transparent;
+  border: none;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}

@@ -1,0 +1,13 @@
+.render-ing-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.render-ing-container .card-ing {
+  border: 1px solid grey;
+  box-shadow: 0.5vh 1vh grey;
+  margin: 2vh;
+  text-align: center;
+  width: 40%;
+}

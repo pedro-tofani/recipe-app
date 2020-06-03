@@ -1,0 +1,25 @@
+.container-Profile {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-Profile > p {
+  align-self: center;
+  display: flex;
+}
+
+.container-buttonsP {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.buttons {
+  margin: 0 25%;
+}
+
+/* .buttons > button {
+  width: 300px;
+}
+ */

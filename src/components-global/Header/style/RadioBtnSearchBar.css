@@ -1,0 +1,7 @@
+.form-header-flex .option-container {
+  display: flex;
+  flex-direction: row;
+  font-size: 0.75em;
+  justify-content: center;
+  width: 30%;
+}
