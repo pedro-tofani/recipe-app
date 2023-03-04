@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "clipboardy": "^2.1.0",
-    "cypress": "^3.7.0",
+    "cypress": "^12.7.0",
     "gh-pages": "^3.0.0"
   },
   "jest": {
